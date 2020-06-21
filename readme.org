@@ -1,0 +1,5 @@
+* Workspace For Elements of programming by Alexander Stephanov & Paul McJones
+There is a lot of complicated c++ template programming going on in here, so there is a [[file:docs/notes.org][notes]] file that records my experiments with novel concepts.  
+
+** Tests
+tabbed_tests.pl
